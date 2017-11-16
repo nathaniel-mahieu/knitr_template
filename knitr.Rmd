@@ -1,0 +1,3 @@
+```{r setup, cache=FALSE, include=FALSE}
+opts_chunk$set(fig.width=11, fig.height=7, fig.align="center", message=F, warning=F)
+```
